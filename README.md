@@ -84,8 +84,6 @@ We would like to acknowledge the following resources and libraries that helped i
 
 If you have any questions or feedback, feel free to reach out to us:
 
-- Email: contact@expense_tracker_app.com 📧
-
-- Website: [https://www.expense_tracker_app.com](https://www.expense_tracker_app.com) 🌐
+- Email: niravgajera@gmail.com 📧
 
 Thank you for using the Expense Tracker App! We hope it helps you manage your expenses effectively. Happy tracking! 💪💰😊
